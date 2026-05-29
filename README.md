@@ -28,6 +28,17 @@ Repo được tổ chức thành các thư mục sau:
   - `sơ đồ tuần tự 2.png`
   - `usecase tổng quan.jpg`
 
+- **Thư mục Slide**  
+  Chứa các file bài giảng PowerPoint (slide):
+  - `slides.01.pptx`
+  - `slides.02.pptx`
+  - `slides.03.pptx`
+  - `slides.04.pptx`
+  - ...
+
+- **Chủ đề Đồ án Cuối kỳ.docx**  
+  Tài liệu mô tả chủ đề và yêu cầu cho đồ án cuối kỳ.
+
 - **README.md**  
   Tài liệu giới thiệu repo.
 
@@ -46,8 +57,9 @@ Repo được tổ chức thành các thư mục sau:
 2. Mở bằng VS Code hoặc bất kỳ IDE nào để truy cập tài liệu.  
 3. Tham khảo các thư mục theo nhu cầu:
    - Ôn tập → **Đề ôn tập chương**
-   - Lý thuyết → **Giáo trình**
+   - Lý thuyết → **Giáo trình** và **Thư mục Slide**
    - Hình minh họa → **Thư mục hình ảnh**
+   - Thông tin đồ án → **Chủ đề Đồ án Cuối kỳ.docx**
 
 ## Đóng góp
 
