@@ -1,7 +1,3 @@
-**README của repo nên giới thiệu rõ ràng mục đích, cấu trúc thư mục, cách sử dụng và tài liệu liên quan để người khác dễ dàng nắm bắt. Dưới đây là một bản README hoàn chỉnh, phù hợp với repo học tập “INT1405 - Các hệ thống phân tán”.**
-
----
-
 # INT1405 - Các hệ thống phân tán
 
 Kho lưu trữ này chứa tài liệu học tập, bài tập ôn tập, giáo trình và hình ảnh minh họa cho môn học **INT1405 - Các hệ thống phân tán** tại trường đại học.
@@ -41,11 +37,6 @@ Repo được tổ chức thành các thư mục sau:
 - Cung cấp tài liệu tham khảo (giáo trình, bài giảng, sơ đồ minh họa).  
 - Tạo môi trường chia sẻ kiến thức và hợp tác giữa các thành viên.
 
-## 💻 Đồ án bài tập lớn
-
-Đây là link repo đồ án cho bài tập lớn peer-to-peer của nhóm 3 thành viên của tôi (Duy Hà, Mạnh Tuấn, Quang Dũng) bổ trợ cho repo INT1405 của tôi: 
-[github.com/b22dccn256/p2p-system](https://github.com/b22dccn256/p2p-system)
-
 ## Cách sử dụng
 
 1. Clone repo về máy:
@@ -68,4 +59,9 @@ Repo được tổ chức thành các thư mục sau:
 - Tài liệu trong repo chỉ phục vụ mục đích học tập.  
 - Vui lòng trích dẫn nguồn khi sử dụng lại.  
 - Các file Word/PDF có thể chứa nội dung tiếng Việt và tiếng Anh.
+
+## 💻 Đồ án bài tập lớn
+
+Đây là link repo đồ án cho bài tập lớn peer-to-peer của nhóm 3 thành viên của tôi (Duy Hà, Mạnh Tuấn, Quang Dũng) bổ trợ cho repo INT1405 của tôi: 
+[github.com/b22dccn256/p2p-system](https://github.com/b22dccn256/p2p-system)
 
