@@ -77,3 +77,6 @@ Repo được tổ chức thành các thư mục sau:
 Đây là link repo đồ án cho bài tập lớn peer-to-peer của nhóm 3 thành viên của tôi (Duy Hà, Mạnh Tuấn, Quang Dũng) bổ trợ cho repo INT1405 của tôi: 
 [github.com/b22dccn256/p2p-system](https://github.com/b22dccn256/p2p-system)
 
+**Nguồn tham khảo của nhóm:**
+- [p2plabsxyz/peerchat](https://github.com/p2plabsxyz/peerchat)
+
