@@ -2,7 +2,7 @@
 
 Kho lưu trữ này chứa tài liệu học tập, bài tập ôn tập, giáo trình và hình ảnh minh họa cho môn học **INT1405 - Các hệ thống phân tán** tại trường đại học.
 
-## 📚 Nội dung chính
+## Nội dung chính
 
 Repo được tổ chức thành các thư mục sau:
 
@@ -49,7 +49,7 @@ Repo được tổ chức thành các thư mục sau:
    - Lý thuyết → **Giáo trình**
    - Hình minh họa → **Thư mục hình ảnh**
 
-## 👥 Đóng góp
+## Đóng góp
 
 - Repo hiện có sự đóng góp từ **hzied-wk** và **b22dccn256**.  
 - Nếu bạn muốn thêm tài liệu hoặc chỉnh sửa, hãy tạo **pull request** hoặc liên hệ trực tiếp với maintainer.
@@ -60,7 +60,7 @@ Repo được tổ chức thành các thư mục sau:
 - Vui lòng trích dẫn nguồn khi sử dụng lại.  
 - Các file Word/PDF có thể chứa nội dung tiếng Việt và tiếng Anh.
 
-## 💻 Đồ án bài tập lớn
+## Đồ án bài tập lớn
 
 Đây là link repo đồ án cho bài tập lớn peer-to-peer của nhóm 3 thành viên của tôi (Duy Hà, Mạnh Tuấn, Quang Dũng) bổ trợ cho repo INT1405 của tôi: 
 [github.com/b22dccn256/p2p-system](https://github.com/b22dccn256/p2p-system)
